@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm PhD graduate currently finishing a year Postdoctoral Research Training in Applied Machine LearningI'm looking to continue my research training in data science and applying machine learning to improve care quality<br>I'm looking for help with connecting to a lab that would allow me to use my education and professional experience I'm currently learning python and managing large-scale dataset using advantaged R packages<br>Ask me about my interest in medical research and motivation for care quality improvement<br>Fun fact - I love soccer and enjoy almost any physical activities including outdoor games, camping, etc.
+- I'm PhD graduate currently finishing a year Postdoctoral Research Training in Applied Machine LearningI'm looking to continue my research training in data science and applying machine learning to improve care quality<br>
+- I'm looking for help with connecting to a lab that would allow me to use my education and professional experience I'm currently learning python and managing large-scale dataset using advantaged R packages<br>
+- Ask me about my interest in medical research and motivation for care quality improvement<br>
+- **Fun fact:** I love soccer and enjoy almost any physical activities including outdoor games, camping, etc.
 
 
 ## 🌐 Socials:
